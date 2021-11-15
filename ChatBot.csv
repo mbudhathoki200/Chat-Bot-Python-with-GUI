@@ -1,0 +1,32 @@
+﻿Question,Answer
+What's the assignment character in python,=
+What's python's equivalent of ->,=
+How do I read in a csv file?,"I believe it's open('file.csv', 'r')"
+I need help with Python,https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_
+I need help with Python,"The Runestone Academy stuff is really helping as well. Runestone Academy is good because it's interactive, and describes everything really well. and at the end of every page there's a quiz to seal the info in your head"
+I need help with Python,The best way to learn is to make a program
+Is Runestone Academy like Data camp,"Runestone Academy is good because it's interactive, and describes everything really well. and at the end of every page there's a quiz to seal the info in your head"
+Does anybody know how we find the unique categories in the lab,You use the not in operator in an if statement
+Tips on counting the categories?,If you use range(len()) it might help the count function
+What is the empty string,""""""
+What's mod good for,"When you have a set of elements and you want to restrict the index inside it - like the alphabet, you can mod 26 to wrap the number around!"
+how do i cut off my while loop so it only lasts for how ever long i want it to,Using a break statement
+What is a global Variable,look at https://www.w3schools.com/python/gloss_python_global_variables.asp
+Help my program isn't working,my general advice whenever a program just isn't doing what it shoudl be is to litter it with print statements
+Help my program isn't working,Try commenting out some of your calculations and put them back one a a time until you can work out what it's actually doing
+My global variables aren't working,Have you tried turning it off and on again (literally! A restart can clean up the memory!)
+I don't understand what this week is asking ,Have you tried reading the readings for this week? 
+ I'm trying to open the csv file in python but get the following message: FileNotFoundError: [Errno 2] No such file or directory: 'googleplaystore1.csv',is your code file and the csv file in the same folder? otherwise you'll need to use a directory
+ I'm trying to open the csv file in python but get the following message: FileNotFoundError: [Errno 2] No such file or directory: 'googleplaystore1.csv',I get that error when the file isn't in the expected working directory. If I cd in the python terminal to where the file is located the program normally runs again without error... not sure if that is exactly your issue though.
+Best place/website to learn code?,Just depends on what you really want to learn? Code Wars is pretty good if you'd like a bit of challenge. But if you're just starting out - there are few good YouTube videos. Or go to https://www.learnpython.org/ just to start with the basic stuff. üôÇ
+What's pseudo code?,"Pseudocode is just writing the code in a generic form that has no language specific syntax.
+e.g.
+instead of:
+print(""hello welcome to the chatbot"")
+which is python syntax
+you write:
+greet user
+or
+output user welcome message"
+What's pseudo code?,It's just breaking the problem down into steps in plain English
+How do I install VS Code for Python,"I didn't find much information in BB regarding downloading/installing Python or VS code. However, you can use this video. You'll find in section 2 - Annyce Davis explains how to install VS code and python for windows and mac. Its a great course and you can access LinkedIn Learning through your uni email. https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fprogramming-foundations-fundamentals-3%3Ftrk%3Dshare_ent_url%26shareId%3DqpCrW1r9QEGsOKytpK2E0A%253D%253D&account=57121273"
